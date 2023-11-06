@@ -11,5 +11,5 @@ Fistly, when we need to use the sharding technology when deploy our applications
 Then, the consistent hashing will help the data is distributed equally for all data storage we used in our system when we write data continuously.
 
 ### How it's works?
-![alt text](.images/2023-07-23-consistent-hashing/image.png)
+![alt text](../images/2023-07-23-consistent-hashing/image.png)
 We will place all distributed storage in a circle called "hash ring" like this picture above.
